@@ -1,9 +1,9 @@
 .quadrado {
     font-size: 15px;
-    width: 1000px; /* Defina a largura desejada */
-    height: 500px; /* Defina a altura desejada */
+    width: 1000px; 
+    height: 500px; 
     margin: 4% auto;
-    border: 2px solid #949292; /* Cor da borda e espessura */
+    border: 2px solid #949292; 
     background-color: #d9d9d9; 
-    border-radius: 20px;  /* Sem bordas arredondadas */
+    border-radius: 20px;  
 }
